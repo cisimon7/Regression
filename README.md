@@ -1,6 +1,7 @@
 # Regression
-Implementation of Regresssion on a sinusoidal dataset
+Implementation of Regression on a sinusoidal dataset
 
 ### Visualization
 Data2Viz used to display graph of points and curve
 
+![](src/main/resources/result.JPG)
